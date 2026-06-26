@@ -1,6 +1,6 @@
 # Cheshta Arora - Portfolio
 
-🔗 **Live site:** [https://cheshtaaa-ac.github.io/portfolio/)
+🔗 **Live site:** [https://cheshtaaa-ac.github.io/portfolio/]
 
 My personal portfolio website, built to showcase my projects, skills, and experience as a Computer Science undergrad focused on AI/ML and full-stack development.
 
