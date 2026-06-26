@@ -62,4 +62,4 @@ Sonara Lite - In development
 Contact
 📧 cheshtaarora786@gmail.com
 💼 LinkedIn
-🐙 GitHub
+🐙 GitHub https://cheshtaaa-ac.github.io/portfolio/
