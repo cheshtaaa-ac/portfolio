@@ -1,65 +1,55 @@
 # Cheshta Arora - Portfolio
 
-🔗 **Live site:** [https://cheshtaaa-ac.github.io/portfolio/]
+🔗 **Live Site:** https://cheshtaaa-ac.github.io/portfolio/
 
-My personal portfolio website, built to showcase my projects, skills, and experience as a Computer Science undergrad focused on AI/ML and full-stack development.
+My personal portfolio website, built to showcase my projects, skills, and experience as a Computer Science undergraduate focused on AI/ML and full-stack development.
 
 ## About
 
-I'm a B.Tech CS student at Bharati Vidyapeeth College of Engineering, Delhi, working at the intersection of AI/ML and full-stack development. This site covers my education, skills, projects, and experience - including my internship at ISSA, DRDO (Govt. of India).
+I'm a B.Tech Computer Science student at Bharati Vidyapeeth College of Engineering, Delhi, with interests in Artificial Intelligence, Machine Learning, and Full-Stack Development. This portfolio highlights my education, technical skills, projects, and professional experience, including my internship at **ISSA, DRDO (Government of India)**.
 
 ## Built With
 
-- HTML5
-- CSS3
-- JavaScript (vanilla)
+* HTML5
+* CSS3
+* JavaScript (Vanilla)
 
 ## Sections
 
-- **Home** - intro & quick links
-- **About** - background and photo
-- **Education** - academic history
-- **Skills** - languages, tools, frameworks, coursework
-- **Projects** - SimuCare, Quiz App, Sonara Lite
-- **Experience** - DRDO internship, BrainBot Ideathon
-- **Contact** - email, phone, GitHub, LinkedIn
+* **Home** – Introduction and quick links
+* **About** – Background and profile
+* **Education** – Academic journey
+* **Skills** – Programming languages, tools, frameworks, and coursework
+* **Projects** – SimuCare, Quiz App, Sonara Lite
+* **Experience** – DRDO Internship and BrainBot Ideathon
+* **Contact** – Email, GitHub, and LinkedIn
 
 ## Featured Projects
 
-- **[SimuCare](https://simu-care.vercel.app/)** - AI-powered healthcare digital twin platform for simulating patient outcomes and clinical decision-making
-- **[Quiz App](https://quizappcheshta.netlify.app/)** - Full-stack quiz platform with instant scoring (NodeJS, ExpressJS)
-- **[Sonara Lite](https://github.com/cheshtaaa-ac/Sonara-lite)** - In development
+### SimuCare
+
+AI-powered healthcare digital twin platform for simulating patient outcomes and assisting clinical decision-making.
+
+**Live Demo:** https://simu-care.vercel.app/
+
+### Quiz App
+
+A full-stack quiz platform with instant scoring, built using Node.js and Express.js.
+
+**Live Demo:** https://quizappcheshta.netlify.app/
+
+### Sonara Lite
+
+A lightweight music streaming application currently under development.
+
+**Repository:** https://github.com/cheshtaaa-ac/Sonara-lite
 
 ## Contact
 
-- 📧 cheshtaarora786@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/intern-c-b89b49356)
-- 🐙 [GitHub](https://github.com/cheshtaaa-ac)
-Cheshta Arora - Portfolio
-🔗 Live site: https://cheshtaaa-ac.github.io/
+* 📧 Email: [cheshtaarora786@gmail.com](mailto:cheshtaarora786@gmail.com)
+* 💼 LinkedIn: https://linkedin.com/in/intern-c-b89b49356
+* 🐙 GitHub: https://github.com/cheshtaaa-ac
 
-My personal portfolio website, built to showcase my projects, skills, and experience as a Computer Science undergrad focused on AI/ML and full-stack development.
+---
 
-About
-I'm a B.Tech CS student at Bharati Vidyapeeth College of Engineering, Delhi, working at the intersection of AI/ML and full-stack development. This site covers my education, skills, projects, and experience - including my internship at ISSA, DRDO (Govt. of India).
 
-Built With
-HTML5
-CSS3
-JavaScript (vanilla)
-Sections
-Home - intro & quick links
-About - background and photo
-Education - academic history
-Skills - languages, tools, frameworks, coursework
-Projects - SimuCare, Quiz App, Sonara Lite
-Experience - DRDO internship, BrainBot Ideathon
-Contact - email, phone, GitHub, LinkedIn
-Featured Projects
-SimuCare - AI-powered healthcare digital twin platform for simulating patient outcomes and clinical decision-making
-Quiz App - Full-stack quiz platform with instant scoring (NodeJS, ExpressJS)
-Sonara Lite - In development
-Contact
-📧 cheshtaarora786@gmail.com
-💼 LinkedIn
-🐙 GitHub https://cheshtaaa-ac.github.io/portfolio/
