@@ -1,55 +1,37 @@
-# Cheshta Arora - Portfolio
+# Cheshta Arora — Portfolio
 
-🔗 **Live Site:** https://cheshtaaa-ac.github.io/portfolio/
+🔗 **Live site:** [https://cheshtaaa-ac.github.io/portfolio/](https://cheshtaaa-ac.github.io/portfolio/)
 
-My personal portfolio website, built to showcase my projects, skills, and experience as a Computer Science undergraduate focused on AI/ML and full-stack development.
+My personal portfolio website, built to showcase my projects, skills, and experience as a Computer Science undergrad focused on data analytics and machine learning.
 
 ## About
 
-I'm a B.Tech Computer Science student at Bharati Vidyapeeth College of Engineering, Delhi, with interests in Artificial Intelligence, Machine Learning, and Full-Stack Development. This portfolio highlights my education, technical skills, projects, and professional experience, including my internship at **ISSA, DRDO (Government of India)**.
+I'm a B.Tech CS student at Bharati Vidyapeeth College of Engineering, Delhi, working with data pipelines, machine learning, and computer vision. This site covers my education, skills, projects, and experience — including internships at AmitKK Digital Solutions and ISSA, DRDO (Govt. of India).
 
 ## Built With
 
-* HTML5
-* CSS3
-* JavaScript (Vanilla)
+- HTML5
+- CSS3
+- JavaScript (vanilla)
 
 ## Sections
 
-* **Home** – Introduction and quick links
-* **About** – Background and profile
-* **Education** – Academic journey
-* **Skills** – Programming languages, tools, frameworks, and coursework
-* **Projects** – SimuCare, Quiz App, Sonara Lite
-* **Experience** – DRDO Internship and BrainBot Ideathon
-* **Contact** – Email, GitHub, and LinkedIn
+- **Home** — intro & quick links
+- **About** — background
+- **Education** — academic history
+- **Skills** — languages, data & analytics, AI/ML, backend & databases, tools, coursework
+- **Projects** — SimuCare, Retail Sales Analytics, Quiz App
+- **Experience** — AmitKK Digital Solutions, DRDO internship, BrainBot Ideathon
+- **Contact** — email, phone, GitHub, LinkedIn
 
 ## Featured Projects
 
-### SimuCare
-
-AI-powered healthcare digital twin platform for simulating patient outcomes and assisting clinical decision-making.
-
-**Live Demo:** https://simu-care.vercel.app/
-
-### Quiz App
-
-A full-stack quiz platform with instant scoring, built using Node.js and Express.js.
-
-**Live Demo:** https://quizappcheshta.netlify.app/
-
-### Sonara Lite
-
-A lightweight music streaming application currently under development.
-
-**Repository:** https://github.com/cheshtaaa-ac/Sonara-lite
+- **[SimuCare](https://simu-care.vercel.app/)** — AI-powered healthcare digital twin platform for simulating patient outcomes and clinical decision-making ([GitHub](https://github.com/cheshtaaa-ac/SimuCare-))
+- **[Retail Sales Analytics](https://github.com/cheshtaaa-ac/retail-sales-analytics)** — Python data pipeline, SQL Server star schema, and Power BI dashboard built on 9,994 sales records
+- **[Quiz App](https://quizappcheshta.netlify.app/)** — Full-stack quiz platform with instant scoring (NodeJS, ExpressJS)
 
 ## Contact
 
-* 📧 Email: [cheshtaarora786@gmail.com](mailto:cheshtaarora786@gmail.com)
-* 💼 LinkedIn: https://linkedin.com/in/intern-c-b89b49356
-* 🐙 GitHub: https://github.com/cheshtaaa-ac
-
----
-
-
+- 📧 internsummer162@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/cheshta-a-b89b49356)
+- 🐙 [GitHub](https://github.com/cheshtaaa-ac)
